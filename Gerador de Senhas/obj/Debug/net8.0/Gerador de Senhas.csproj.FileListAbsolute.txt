@@ -1,0 +1,14 @@
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.exe
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.deps.json
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.runtimeconfig.json
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.dll
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.pdb
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.AssemblyInfoInputs.cache
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.AssemblyInfo.cs
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.csproj.CoreCompileInputs.cache
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.dll
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\refint\Gerador de Senhas.dll
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.pdb
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.genruntimeconfig.cache
+C:\Users\imped\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\net8.0\ref\Gerador de Senhas.dll
